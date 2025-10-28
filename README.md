@@ -29,8 +29,5 @@ Sử dụng hàm model.predict() để chạy nhận diện trên ảnh.
 
 Lặp qua các kết quả, lấy tọa độ, độ tự tin và tên nhãn của từng đối tượng.
 4. kết quả
-![Kết quả nhận diện YOLOv10]()
+![Kết quả nhận diện YOLOv10](anhketqua.png)
 
-Vẽ các thông tin này lên ảnh gốc và hiển thị kết quả.
-
-4. Kết quả mẫu
